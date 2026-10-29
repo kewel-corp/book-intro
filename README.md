@@ -18,7 +18,7 @@ AIを**使い**、そして**作る** ― 第I部（第1〜12章）はブラウ�
 book-intro/
 ├── notebooks/          ← 章ごとのノートブック（chNN_*.ipynb）
 │   ├── ch03_colab_basics.ipynb
-│   ├── ch10_oct_classification.ipynb   ← 第I部の完全チュートリアル
+│   ├── ch10_oct_classification.ipynb   ← 第I部のOCT画像分類の実習
 │   ├── ch16_pytorch_basics.ipynb
 │   ├── ch25_classification_e2e.ipynb   ← 分類の実装ガイド
 │   └── ...
